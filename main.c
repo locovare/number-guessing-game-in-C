@@ -22,8 +22,7 @@ void game()
     printf("%d\n", r);
 
     //printf("DEBUG: The number is %d\n", r); // Uncomment this line for testing
-
-    char yn;
+    
     int i;
     int guess;
     int won = 0;
